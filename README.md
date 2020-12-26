@@ -39,4 +39,4 @@ http://192.168.0.111:18080/exp.php
 
 (exp.php里的路径根据实际情况修改)
 
-![image-20201226113404523](D:\phpstudy_pro\WWW\Fastcgi-exp\img\image-20201226113404523.png)
+![image-20201226113404523](.\img\image-20201226113404523.png)
